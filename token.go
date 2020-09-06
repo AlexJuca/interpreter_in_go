@@ -1,2 +1,0 @@
-package interpreter_go
-
