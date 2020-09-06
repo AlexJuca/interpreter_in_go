@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba864b21-30a4-402c-a423-ac4e4a0ca663" name="Default Changelist" comment="" />
+    <list default="true" id="ba864b21-30a4-402c-a423-ac4e4a0ca663" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
     </option>
   </component>
   <component name="GOROOT" path="/snap/go/6274" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h8QP5WAZF56DT1HNYlPQCGEdWb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +33,14 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/token.go" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="go build interpreter_go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -58,5 +70,9 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2104" y="281" width="424" height="486" key="FileChooserDialogImpl/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599390590069" />
+    <state x="1830" y="157" width="992" height="732" key="SettingsEditor" timestamp="1599392448374">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1830" y="157" width="992" height="732" key="SettingsEditor/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599392448374" />
   </component>
 </project>
