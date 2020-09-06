@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba864b21-30a4-402c-a423-ac4e4a0ca663" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/snap/go/6274" />
+  <component name="ProjectId" id="1h8QP5WAZF56DT1HNYlPQCGEdWb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/token.go" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build interpreter_go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="interpreter_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2121" y="184" width="400" height="679" key="#GOPATH" timestamp="1599390533877">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2121" y="184" width="400" height="679" key="#GOPATH/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599390533877" />
+    <state x="1784" y="180" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599390593161">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1784" y="180" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599390593161" />
+    <state x="2104" y="281" width="424" height="486" key="FileChooserDialogImpl" timestamp="1599390590069">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2104" y="281" width="424" height="486" key="FileChooserDialogImpl/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599390590069" />
+  </component>
+</project>
