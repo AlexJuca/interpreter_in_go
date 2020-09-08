@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ba864b21-30a4-402c-a423-ac4e4a0ca663" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexer/lexer.go" beforeDir="false" afterPath="$PROJECT_DIR$/lexer/lexer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexer/lexer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/lexer/lexer_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/token/token.go" beforeDir="false" afterPath="$PROJECT_DIR$/token/token.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,22 +36,22 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lexer/lexer_test.go" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration name="go build interpreter_go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <configuration name="go build interpreter_go lexer_test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="interpreter_go" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/../interpreter_go|$PROJECT_DIR$/lexer/lexer_test.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -58,21 +61,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2121" y="184" width="400" height="679" key="#GOPATH" timestamp="1599390533877">
+    <state x="2121" y="184" width="400" height="679" key="#GOPATH" timestamp="1599429670029">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="2121" y="184" width="400" height="679" key="#GOPATH/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599390533877" />
-    <state x="1784" y="180" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599390593161">
+    <state x="2121" y="184" width="400" height="679" key="#GOPATH/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599429670029" />
+    <state x="1784" y="180" width="1084" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599430020746">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1784" y="180" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599390593161" />
-    <state x="2104" y="281" width="424" height="486" key="FileChooserDialogImpl" timestamp="1599390590069">
+    <state x="1784" y="180" width="1084" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599430020746" />
+    <state x="2104" y="281" width="424" height="486" key="FileChooserDialogImpl" timestamp="1599430018059">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="2104" y="281" width="424" height="486" key="FileChooserDialogImpl/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599390590069" />
-    <state x="1830" y="157" width="992" height="732" key="SettingsEditor" timestamp="1599392448374">
+    <state x="2104" y="281" width="424" height="486" key="FileChooserDialogImpl/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599430018059" />
+    <state x="2063" y="206" width="516" height="635" key="RollbackChangesDialog" timestamp="1599429888179">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1830" y="157" width="992" height="732" key="SettingsEditor/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599392448374" />
+    <state x="2063" y="206" width="516" height="635" key="RollbackChangesDialog/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599429888179" />
+    <state x="1705" y="161" width="992" height="732" key="SettingsEditor" timestamp="1599584645746">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1705" y="161" width="992" height="732" key="SettingsEditor/1366.0.1920.1080/0.27.1366.679@1366.0.1920.1080" timestamp="1599584645746" />
   </component>
 </project>
